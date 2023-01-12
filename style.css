@@ -1,0 +1,73 @@
+    #div1{
+    	border-style: dotted;
+    	border color: #737A6E  ;
+    	margin: 15%;
+    	Padding: 12px;
+        background-color:#F7C708 ;
+
+    }
+    #product{
+    	font-family: 'Cedarville Cursive', cursive;
+    	font size: 28pt;
+    	text-align: left;
+    	margin-left: 20px;
+    	margin-right: 20px;
+        color: black;
+        background-color:#F7C708;
+    }
+    #price{
+    	margin-top: 25px;
+    	margin-bottom: 25px;
+    	font-family: 'Cedarville Cursive', cursive;
+    	font-align: center;
+        color: black;
+        background-color:#FAF7F7;
+    }
+    body{
+    	background-colour:##FAF7F7 ;
+    }
+    img{
+    	height: 68%;
+        width: 68%;
+        margin-left: 150px;
+        margin-right: 130px;
+        border: 1px solid #add;
+        border-radius: 4px;
+        padding: 5px;
+    }
+    h4{
+        font-family: 'Cedarville Cursive', cursive;
+        font-size: 39pt;
+        text-align: center;
+        margin top: 6px;
+        outline: 6;
+        display: inline-block;
+        padding: 12px;
+        color: black;
+        background-color:#FAF7F7 ;
+    }
+    button{
+        height: 50%;
+        width: 50%; font-family: 'Cedarville Cursive', cursive;
+        font-size: 34pt;
+        text-align: center;
+        margin top: 6px;
+        outline: 6;
+        display: inline-block;
+        padding: 12px;
+        color: white;
+        background-color:#E21C1C ;
+    }
+
+    h3{
+        font-family: 'Cedarville Cursive', cursive;
+        font-size: 39pt;
+        text-align: center;
+        margin top: 6px;
+        outline: 6;
+        display: inline-block;
+        padding: 12px;
+        color: black;
+        background-color:#FAF7F7 ;
+    }
+    
